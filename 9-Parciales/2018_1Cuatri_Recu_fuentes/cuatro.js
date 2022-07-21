@@ -30,6 +30,8 @@ function mostrar()
 	if (primerNumero > segundoNumero) 
 		{
 			division = primerNumero / segundoNumero;
+
+			
 		}else
 			{
 				suma = primerNumero + segundoNumero;

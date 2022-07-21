@@ -12,11 +12,11 @@ function mostrar()
 
 	switch(mes){
 		case "Febrero":
-			mensaje = "Este mes no tiene más de 29 días."
+			mensaje = "Este mes no tiene mas de 29 dias."
 		break;
 
 		default:
-			mensaje = "Este mes tiene 30 días o más."
+			mensaje = "Este mes tiene 30 dias o mas."
 		break;
 
 	}

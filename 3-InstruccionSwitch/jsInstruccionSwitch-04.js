@@ -13,18 +13,18 @@ function mostrar()
 
 	switch(mes){
 		case "Febrero":
-			mensaje = "Este mes tiene 28 días."
+			mensaje = "Este mes tiene 28 dias."
 		break;
 
 		case "Abril":
 		case "Junio":
 		case "Septiembre":
 		case "Noviembre":
-			mensaje = "Este mes tiene 30 días.";
+			mensaje = "Este mes tiene 30 dias.";
 		break;
 
 		default:
-			mensaje = "Este mes tiene 31 días.";
+			mensaje = "Este mes tiene 31 dias.";
 		break;
 
 	}	
